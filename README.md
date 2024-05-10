@@ -1,3 +1,3 @@
 # .github
 
-Info for the Crystal Caverns Github page
+Information to be shown on the Crystal Caverns Github page.
